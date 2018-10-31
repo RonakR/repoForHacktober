@@ -3,3 +3,4 @@
 3) Create PR from new branch to master
 4) Repeat step 3 5 times
 5) ???
+6) TSHIRT
