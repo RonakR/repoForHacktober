@@ -1,2 +1,1 @@
-# repoForHacktober
-Hacktober fest repo
+1) Create repo
